@@ -3,12 +3,16 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/trthinh"><img src="https://readme-typing-svg.herokuapp.com/?lines=Final-year+IT+student;.NET+Backend+Enthusiast;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/trthinh"><img src="https://readme-typing-svg.herokuapp.com/?lines=ReactJS+Developer;.NET+Developer;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trthinh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor" />
 </p>
+
+<h3 align="center">View more at
+  <a href="https://trthinhportfolio.vercel.app/">My Portfolio</a>
+</h3>
 
 ---
 

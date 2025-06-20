@@ -22,7 +22,7 @@
  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/programmer.gif" width="250" align="right">
 </p>
 
-🎓 I’m a final-year IT student who is passionate about .NET development.<br/>
+🎓 I’m a graduate IT student who is passionate about .NET development.<br/>
 🎯 I aim to become a **Junior .NET Backend Developer** within the next year and **Mid-Level in two**.<br/>
 💡 I'm committed to contributing effectively to business solutions and projects.<br/>
 📬 Contact me: trongthinh2602@gmail.com

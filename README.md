@@ -22,8 +22,8 @@
  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/programmer.gif" width="250" align="right">
 </p>
 
-🎓 I’m a graduate IT student who is passionate about .NET development.<br/>
-🎯 I aim to become a **Junior .NET Backend Developer** within the next year and **Mid-Level in two**.<br/>
+🎓 I’m a graduate IT student at the University of Greenwich, who is passionate about .NET development.<br/>
+🎯 Most of the time, I learn by myself about everything.<br/>
 💡 I'm committed to contributing effectively to business solutions and projects.<br/>
 📬 Contact me: trongthinh2602@gmail.com
 
